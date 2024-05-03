@@ -1,0 +1,19 @@
+h1 {
+    font-size: 20px;         
+    text-align: center;
+    background-color: #64D860;
+   }
+    h3 {
+    font-size: 30px;
+    font-family: Corbel ; 
+    color: #4A5759 ;
+    text-align: center;
+    background-image: url(https://storage.picsave.pp.ua/cluster1/origin/faf6f65f187ee7f58606663197fca89f.jpg);
+    background-size: 100%;
+    }
+    h2 {
+    font-size: 20px;
+    text-align: center;
+    font-family: Georgia ; 
+    background-color: #F5A819 ;
+    }
